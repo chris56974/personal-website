@@ -1,6 +1,6 @@
 import type { NextPage } from "next"
-import Head from ''
 
-const Projects: NextPage = () => {
+export const Projects: NextPage = () => {
 
+  return <div></div>
 }

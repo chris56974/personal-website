@@ -4,8 +4,6 @@
 yarn dev # localhost:3000
 ```
 
-The nextjs starter from Theodorus Clarence was super helpful
-
 ## Attribution
 
 https://github.com/theodorusclarence/ts-nextjs-tailwind-starter

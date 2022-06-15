@@ -1,5 +1,5 @@
-import HtmlHeader from "./HtmlHeader/HtmlHeader"
-import Nav from "./Nav/Nav"
-import Terminal from "./Terminal/Terminal"
+import { HtmlHeader } from "./HtmlHeader/HtmlHeader";
+import { NavBar } from "./Navbar/Navbar";
+import { Terminal } from "../pages/Home/components/Terminal/Terminal";
 
-export { HtmlHeader, Nav, Terminal }
+export { HtmlHeader, NavBar, Terminal };

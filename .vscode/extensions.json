@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "editorconfig.editorconfig",
-        "csstools.postcss"
+        "csstools.postcss",
+        "bradlc.vscode-tailwindcss"
     ]
 }
